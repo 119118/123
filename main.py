@@ -11,10 +11,10 @@ today = datetime.now()
 start_date = "2018-03-16"  #恋爱开始时间
 city = "101220101"         #城市天气查询的id ,根据自己城市上网查询即可,当前是合肥市
 birthday = "06-06"         #出生日期
-app_id = "wxb1e5385c50a7af37" #微信测试的app_id
-app_secret = "0a8589fbe9e7fefcbcb49c9be4ece657" #微信测试的app_secret
-user_id = "oJjoj56DH_yxUozWHtTScDlCdzOo"        #扫码生成的user_id(女朋友的user_id)
-template_id = "KwlL2kXjjyxdGw-ey0UpZxgNKV8UvKfjy6qdnwLggOY" #生成的模板id
+app_id = "" #微信测试的app_id
+app_secret = "" #微信测试的app_secret
+user_id = ""        #扫码生成的user_id(女朋友的user_id)
+template_id = "" #生成的模板id
 
 
 def get_weather():
